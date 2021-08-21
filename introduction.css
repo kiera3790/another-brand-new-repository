@@ -1,0 +1,49 @@
+  	body {
+  background-color :#CAE7DF ;
+	margin: 37px;
+	font-family: cursive;
+}
+
+
+  	h1, #start {
+  color:blue;
+  text-align: center;
+  font-family : comic sans MS;
+}
+
+  	p,ul {
+  color:#801c1d ;
+
+}
+
+  	button {
+  background-color : #088997;
+  height : 60px;
+  width : 350px;
+	font-size: 17px;
+
+}
+	  .form {
+  background-color: #8802;
+	padding: 3px;
+	font-style: italic;
+	font-family: serif;
+	}
+
+		 .contact {
+
+		 }
+	   table, tr, td {
+	border: 1px dashed black;
+	border-collapse: collapse;
+	padding: 5px;
+	}
+	  	th {
+			background-color: grey;
+		}
+			 h1 {
+				font-size: 45px;
+			}
+			ol > ul > li {
+				font-size: 17px;
+			}
